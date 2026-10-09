@@ -7,6 +7,18 @@ This project was developed as part of the **#BI_NGO initiative** to support **Fu
 
 The goal was to explore the relationship between **average annual gross salaries** and the **number of newborns left in hospitals** across Poland between 2007 and 2023.
 
+
+## 🌐 Interactive Dashboard
+
+Explore the interactive R Shiny dashboard:
+
+🔗 **[View Live Dashboard]([https://oliwiawojcicka.shinyapps.io/appmoja/])**
+
+The dashboard allows users to explore regional trends,
+filter data by voivodeship, and select different time
+periods between 2007 and 2023.
+
+
 ## 📊 What I Did
 
 I developed an **interactive data visualization application using R Shiny** that allows users to:
