@@ -12,7 +12,7 @@ The goal was to explore the relationship between **average annual gross salaries
 
 Explore the interactive R Shiny dashboard:
 
-🔗 **[View Live Dashboard]([https://oliwiawojcicka.shinyapps.io/appmoja/])**
+🔗 **https://oliwiawojcicka.shinyapps.io/appmoja/**
 
 The dashboard allows users to explore regional trends,
 filter data by voivodeship, and select different time
